@@ -1,0 +1,33 @@
+_repo: Soldiers-Three---Part-2_2227
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, R. (Rudyard)
+    - Kipling, Joseph Rudyard
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: ''
+gutenberg_issued: '2000-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2227'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English'
+- !lcsh 'Soldiers -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: '"Love-o''women" -- The big drunk draf'' -- The mutiny of the Mavericks
+  -- The man who was -- Only a subaltern -- In the matter of a private -- The lost
+  legion -- The drums of the fore and aft -- Judson and the Empire -- A conference
+  of the powers.'
+title: Soldiers Three - Part 2
+url: http://www.gutenberg.org/ebooks/2227
